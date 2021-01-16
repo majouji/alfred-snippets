@@ -4,7 +4,7 @@ My growing collection of snippets for Alfred Powerpack. Requires an [Alfred Powe
 
 ## Cubic-Bezier Timing Functions
 
-A small set of snippets to easily expand common `cubic-bezier` timing functions, based on Benjamin de Cock’s [cheatsheet gist](https://gist.github.com/bendc/ac03faac0bf2aee25b49e5fd260a727d).
+A small set of snippets to easily expand common `cubic-bezier` timing functions, based on Benjamin de Cock’s [cheatsheet gist](https://gist.github.com/bendc/ac03faac0bf2aee25b49e5fd260a727d). These snippets only expand to the actual timing function (without any CSS property or extra prefix/suffix) so they can be used in a variety of ways, such as in Figma or for other software development use.
 
 ### Snippets
 
